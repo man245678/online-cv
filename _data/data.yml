@@ -40,9 +40,6 @@ sidebar:
       - item: Physical Design Optimization
         link:
 
-      - item: Work-out
-        link:
-
       - item: Skiing
         link:
 
@@ -51,7 +48,7 @@ career-profile:
     summary: |
       Hyeonjae Lee received the BS. degree in Electronic Engineering from Sungkyunkwan University, Seoul, South Korea, in 2026. He is currently the MS. candidate in Electrical Engineering in 2026 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Physical Design Optimization. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
 education:
-    - degree: BS. in Electronic Engineering
+    - degree: MS. in Electronic Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: Mar. 2026 - Present
       details: |
